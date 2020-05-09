@@ -35,8 +35,3 @@
 
 
 
-
-
-
->_university project of BU_
-
